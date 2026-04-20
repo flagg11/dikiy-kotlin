@@ -1,0 +1,3 @@
+-keep class com.rut.campusnavigation.domain.model.**
+-dontwarn org.osmdroid.**
+-keepattributes SourceFile,LineNumberTable
