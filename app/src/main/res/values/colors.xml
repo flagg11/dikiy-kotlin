@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rut_blue">#2D6A9F</color>
+    <color name="rut_blue_dark">#1A4F7A</color>
+    <color name="rut_red">#E84C3D</color>
+    <color name="rut_green">#27AE60</color>
+    <color name="route_panel_bg">#F0F4F8</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
