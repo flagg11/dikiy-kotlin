@@ -49,4 +49,10 @@ dependencies {
     implementation(libs.osmdroid.android)
     implementation(libs.coroutines.android)
     testImplementation(libs.junit)
-    testImplementation(libs.
+    testImplementation(libs.mockk)
+    testImplementation(libs.coroutines.test)
+    androidTestImplementation(libs.junit.ext)
+    androidTestImplementation(libs.espresso.core)
+    androidTestImplementation(libs.hilt.testing)
+    kspAndroidTest(libs.hilt.compiler)
+}
